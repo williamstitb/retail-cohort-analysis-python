@@ -20,3 +20,6 @@ The goal was to apply data manipulation techniques to a raw transactional datase
 
 ## License
 The code in this repository is licensed under the MIT License.
+
+## Contact
+Created by [William H. Ongseputra](https://www.linkedin.com/in/wongseputra/).
